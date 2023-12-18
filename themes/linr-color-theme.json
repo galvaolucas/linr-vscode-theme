@@ -5,11 +5,11 @@
 		"activityBar.background": "#242038",
 		"sideBar.background": "#2a233f89",
 		"badge.background": "#ff0000",
-    "editor.foreground": "#cac4ce",
+    "editor.foreground": "#dcb5f7",
     "editor.selectionBackground": "#242038",
     "editor.lineHighlightBackground": "#242038",
     "editorCursor.foreground": "#bd93f9",
-    "editorWhitespace.foreground": "#242038"
+    "editorWhitespace.foreground": "#242038",
   },
   "tokenColors": [
     {
@@ -19,7 +19,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#8d86c9"
+        "foreground": "#b0fcc1"
       }
     },
     {
@@ -82,7 +82,42 @@
 				"support.interface"
 			],
 			"settings": {
-				"foreground": "#8bfd96"
+				"foreground": "#4ba7aa"
+			}
+		},
+    {
+			"scope": [
+				"support.class",
+			],
+			"settings": {
+				"foreground": "#c3cbbe"
+			}
+		},
+    {
+			"name": "Types declaration and references",
+			"scope": [
+				"entity.name.type",
+				"entity.name.namespace",
+				"entity.other.attribute",
+				"entity.name.scope-resolution",
+				"entity.name.class",
+			],
+			"settings": {
+				"foreground": "#4EC9B0"
+			}
+		},
+    {
+			"name": "Types declaration and references, TS grammar specific",
+			"scope": [
+				"meta.type.cast.expr",
+				"meta.type.new.expr",
+				"support.constant.math",
+				"support.constant.dom",
+				"support.constant.json",
+				"entity.other.inherited-class"
+			],
+			"settings": {
+				"foreground": "#4EC9B0"
 			}
 		},
   ]
