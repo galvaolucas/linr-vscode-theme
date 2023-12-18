@@ -1,0 +1,89 @@
+{
+  "name": "Linr Theme",
+  "colors": {
+    "editor.background": "#242038",
+		"activityBar.background": "#242038",
+		"sideBar.background": "#2a233f89",
+		"badge.background": "#ff0000",
+    "editor.foreground": "#cac4ce",
+    "editor.selectionBackground": "#242038",
+    "editor.lineHighlightBackground": "#242038",
+    "editorCursor.foreground": "#bd93f9",
+    "editorWhitespace.foreground": "#242038"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "keyword",
+        "variable.language"
+      ],
+      "settings": {
+        "foreground": "#8d86c9"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other.readwrite"
+      ],
+      "settings": {
+        "foreground": "#8ddcde"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#d4acff"
+      }
+    },
+		{
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#fa5881"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "constant.language",
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#bd93f9"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted"
+      ],
+      "settings": {
+        "foreground": "#fff27e"
+      }
+    },
+    {
+      "scope": [
+        "support.function",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#8be9fd"
+      }
+    },
+		{
+			"scope": [
+				"support.type",
+				"support.class",
+				"support.interface"
+			],
+			"settings": {
+				"foreground": "#8bfd96"
+			}
+		},
+  ]
+}
