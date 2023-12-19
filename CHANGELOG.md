@@ -9,3 +9,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release
 - Adding Icons
 - Change Pallete
+- Change Pallete v2

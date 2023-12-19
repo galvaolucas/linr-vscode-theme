@@ -1,16 +1,30 @@
-# linr-theme README
+# Linr Theme README
 
-## Working with Markdown
+## Description
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+The theme's proposal is to be a modern dark theme without high contrast colors, designed mostly for people who likes to work at night or with low lights.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Getting Started](images/example.png)
 
-## For more information
+## Install
+1. Go to VS Code Marketplace.
+2. Search for Linr Theme
+3. Click on the "Install" button
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Theme Options
+* Linr Dark Theme
+
+## Contribute
+1. Clone and open this [repo](https://github.com/galvaolucas/linr-vscode-theme) in VS Code;
+3. Press F5 to open a new window with your extension loaded
+4. Make changes to the /src/themes/linr-color-theme.json file.
+5. Once you're happy, commit your changes and open a PR.
+
+## Coming Soon
+* Linr Light Theme
 
 **Enjoy!**
+
+## Contributors
+* [Lucas Galvão](https://github.com/galvaolucas/)
+
