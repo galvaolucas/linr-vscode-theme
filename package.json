@@ -2,7 +2,7 @@
   "name": "linr-theme",
   "displayName": "Linr Theme",
   "description": "Modern dark theme for VSCode",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "lucasdemelogalvao",
   "engines": {
     "vscode": "^1.85.0"
