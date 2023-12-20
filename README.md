@@ -22,9 +22,11 @@ The theme's proposal is to be a modern dark theme without high contrast colors, 
 
 ## Coming Soon
 * Linr Light Theme
-
-**Enjoy!**
+* General improvements
 
 ## Contributors
 * [Lucas Galvão](https://github.com/galvaolucas/)
+
+**Enjoy!**
+
 
