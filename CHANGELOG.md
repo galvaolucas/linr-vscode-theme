@@ -15,3 +15,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - [Initial release](https://github.com/galvaolucas/linr-vscode-theme/pull/1)
 - [Changing example image and updating package.json](https://github.com/galvaolucas/linr-vscode-theme/pull/2)
+- Changing brackets colors in variables interpolation

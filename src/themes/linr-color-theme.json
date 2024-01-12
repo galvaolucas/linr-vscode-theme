@@ -44,7 +44,7 @@
     "editorBracketHighlight.foreground4": "#4fb1bc",
     "editorBracketHighlight.foreground5": "#97c26c",
     "editorBracketHighlight.foreground6": "#abb2c0",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#ff5454"
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff5454",
   },
   "tokenColors": [
     {
@@ -104,10 +104,10 @@
     },
     {
       "scope": [
-        
+        "meta.template.expression",
       ],
       "settings": {
-        "foreground": "#D0A9EA"
+        "foreground": "#4EC9B0"
       }
     },
     {
